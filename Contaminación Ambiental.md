@@ -2,7 +2,7 @@
 # **PROYECTO MEDIOAMBIENTAL**
 
 **ÍNDICE** 
-- ¿Qué es la contaminación ambiental?
+- Contaminación Ambiental
 - Consumismo
 - Obsolescencia programada
 - Residuos informáticos
@@ -68,7 +68,7 @@ Por lo tanto la pregunta que nos tendríamos que hacer es si es suficiente con e
 
 ![enter image description here](https://panelyacanalados.com/wp-content/uploads/2022/01/dia-mundial-de-la-educacion-ambiental-manos.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI1NzI5NjIxLDE2MDQ0NTc0MDYsLTEyOT
+eyJoaXN0b3J5IjpbLTU0NDQyOTQxLDE2MDQ0NTc0MDYsLTEyOT
 MwMzI4MzQsLTE3Nzc1MjA0OSwtMTE4OTQ4MzA0MywtMjA3NTIw
 NjMwMSwtNjgyMTE0MjcsLTE3MTE5MjU1ODVdfQ==
 -->
