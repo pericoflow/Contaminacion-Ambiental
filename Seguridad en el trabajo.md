@@ -28,7 +28,7 @@ Trabajando en oficinas es muy importante un orden de los cables que utilizas nue
 
 ![enter image description here](https://media.adeo.com/marketplace/LMES/16811326/2855672.jpeg?width=650&height=650&format=jpg&quality=80&fit=bounds)
 
-
+![enter image description here](https://media.adeo.com/marketplace/MKP/83703704/50f30b20d5358b458db2894ffedd88a4.jpeg?width=650&height=650&format=jpg&quality=80&fit=bounds)
 ## 4. Contacto Eléctrico
 Respetando las normas de seguridad con respecto a la seguridad en uso de cableado, nunca damos por hecho nada, eso quiere decir que antes de trastear con un equipo que vayamos arreglar revisar que no tenga corriente y si es así y somos conscientes usar las medidas adecuadas.
 
@@ -42,6 +42,6 @@ Proporcionar mayor control en las tareas que desempeñan los trabajadores.
 Tenemos claro que el sector tecnológico está en auge y cada vez va creciendo más y más rápido por lo que cada vez hay que ser más conscientes de la prevención de riesgos laborales en sectores como la informática.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5ODk1Nzc4NCwxMDU3MTI0ODcsLTIyNj
+eyJoaXN0b3J5IjpbLTY2OTQ5NzM1OCwxMDU3MTI0ODcsLTIyNj
 YxMzAwNSwtMjA4MTY5Mzc1NF19
 -->
