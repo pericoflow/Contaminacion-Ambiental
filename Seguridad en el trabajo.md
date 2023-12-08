@@ -54,16 +54,16 @@ Tenemos claro que el sector tecnológico está en auge y cada vez va creciendo m
 Autor: Unir, la universidad de internet. Beegigital.
 >- https://www.unir.net/ingenieria/revista/riesgos-laborales-informatica/#:~:text=Los%20principales%20riesgos%20laborales%20que,Contacto%20el%C3%A9ctrico
 >- https://www.beedigital.es/prevencion-riesgos/prl-consejos-de-ergonomia-frente-al-ordenado/
+>
+>
+>**REALIZADO POR:**
+> 1. JAVIER BARRERO VÁZQUEZ
+> 2. ANDRÉS RUIZ CABELLO
+> 3. JUAN JOSÉ CAMPOS GÓMEZ
 
-**REALIZADO POR:**
-
- 1. JAVIER BARRERO VÁZQUEZ
-
- ANDRÉS RUIZ CABELLO
-JUAN JOSÉ CAMPOS GÓMEZ
 </div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzIwMDM4NTcsLTEwNTAzMTUzMTgsNj
+eyJoaXN0b3J5IjpbLTExODA2ODE2MjAsLTEwNTAzMTUzMTgsNj
 U5MDk0MTc3LDEzNDkyNTUyOTAsMTM0OTI1NTI5MCwxMDU3MTI0
 ODcsLTIyNjYxMzAwNSwtMjA4MTY5Mzc1NF19
 -->
