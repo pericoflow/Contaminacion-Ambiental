@@ -16,6 +16,9 @@ La contaminación ambiental es la presencia de componentes nocivos, bien sean de
 
 Hace más de 50 años existía una concienciación para proteger el medioambiente, hoy en día para él las generaciones futuras y el futuro de nuestro planeta existen unas estrictas políticas acerca del cuidado y la protección de nuestro planeta.
 
+A través de este enlace [
+https://www.un.org/es/actnow/facts-and-figures) podrás entrar en la web de las Naciones Unidas y leer sobre información que nos facilitan detallada en varios ámbitos, ya sea energía, transporte, agua, etc.
+
 ![ç](https://statics-cuidateplus.marca.com/cms/styles/ratio_43/azblob/contaminacion-ilustracion.jpg.webp?itok=l0elgOfc)
 
 ## 2. *Consumismo*
@@ -74,9 +77,10 @@ Por lo tanto la pregunta que nos tendríamos que hacer es si es suficiente con e
 > - https://vaciadosylimpiezas.com/que-es-la-basura-electronica-y-como-nos-afecta/#:~:text=Muchos%20desechos%20electr%C3%B3nicos%20contienen%20en,a%20nivel%20renal%20y%20%C3%B3seo
 > - https://www.gob.mx/profeco/es/articulos/obsolescencia-programada-disenados-para-morir?idiom=es#:~:text=falta%20para%20repararlo?-,La%20obsolescencia%20programada%20es%20la%20acci%C3%B3n%20intencional%20que%20hacen%20los,trata%20de%20una%20falla%20planeada
 > - https://www.bbva.com/es/sostenibilidad/que-es-y-que-tipos-de-contaminacion-ambiental-existen/
-> - 
+> - https://es.wikipedia.org/wiki/Consumismo
+> - https://dialnet.unirioja.es/servlet/articulo?codigo=8397461
 
->
+
 >**REALIZADO POR:**
 > 1. JAVIER BARRERO VÁZQUEZ
 > 2. ANDRÉS RUIZ CABELLO
@@ -85,8 +89,8 @@ Por lo tanto la pregunta que nos tendríamos que hacer es si es suficiente con e
 
 </div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NDY2MDAwMSw5MjEyMzY4MjksLTU0ND
-QyOTQxLDE2MDQ0NTc0MDYsLTEyOTMwMzI4MzQsLTE3Nzc1MjA0
-OSwtMTE4OTQ4MzA0MywtMjA3NTIwNjMwMSwtNjgyMTE0MjcsLT
-E3MTE5MjU1ODVdfQ==
+eyJoaXN0b3J5IjpbNDg5NzU4OTg3LDkyMTIzNjgyOSwtNTQ0ND
+I5NDEsMTYwNDQ1NzQwNiwtMTI5MzAzMjgzNCwtMTc3NzUyMDQ5
+LC0xMTg5NDgzMDQzLC0yMDc1MjA2MzAxLC02ODIxMTQyNywtMT
+cxMTkyNTU4NV19
 -->
