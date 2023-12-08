@@ -72,12 +72,12 @@ Muchos fabricantes de productos tecnológicos invierten en diseños y tecnologí
 
 
 ## 7. Conclusión
-
 A lo largo de este trabajo hemos visto las causas, consecuencias y posibles soluciones de la contaminación ambiental.
-Realmente si realizamos un análisis mucho más profundo vemos que el problema va más allá de lo que hemos expuesto, se trata de un problema estructural sistémico cuyas bases se nutren de una cadena interminable de factores como la desigualdad social, económica y de género, el aprovechamiento de mano de obra “neo-esclava” de los países en vía de desarrollo donde también se extraen la mayoría de los componentes más demandados para los países del primer mundo para satisfacer la demanda consumista de sus sociedades.
-Por lo tanto la pregunta que nos tendríamos que hacer es si es suficiente con el reciclaje y con un consumo responsable para parar con esta problemática que terminará por llevarnos a un futuro mucho más oscuro.
 
+Realmente si realizamos un análisis mucho más profundo vemos que el problema va más allá de lo que hemos expuesto, se trata de un problema estructural sistémico cuyas bases se nutren de una cadena interminable de factores como la desigualdad social, económica y de género, el aprovechamiento de mano de obra “neo-esclava” de los países en vía de desarrollo donde también se extraen la mayoría de los componentes más demandados para los países del primer mundo para satisfacer la demanda consumista de sus sociedades.
+
+Por lo tanto la pregunta que nos tendríamos que hacer es si es suficiente con el reciclaje y con un consumo responsable para parar con esta problemática que terminará por llevarnos a un futuro mucho más oscuro.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MjU2NjcyOSwtMTE4OTQ4MzA0MywtMj
-A3NTIwNjMwMSwtNjgyMTE0MjcsLTE3MTE5MjU1ODVdfQ==
+eyJoaXN0b3J5IjpbLTIwNjY1NjE4MTksLTExODk0ODMwNDMsLT
+IwNzUyMDYzMDEsLTY4MjExNDI3LC0xNzExOTI1NTg1XX0=
 -->
