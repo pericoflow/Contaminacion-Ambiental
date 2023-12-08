@@ -49,7 +49,7 @@ La proliferación de dispositivos digitales se está convirtiendo en un problema
 La vida útil de un articulo electrónico pequeño como un móvil o un reloj rondan los 2-3 años de vida útil o artículos menos tecnológicos y que necesitan una menor implicación en su creación como es el caso de las bombillas tienen una vida útil de 1000 horas mientras antes tenían una vida útil de 2500 horas.
 Como contraposición a esta práctica de limitar la vida útil de los objetos tenemos a la bombilla más longeva del mundo se encuentra en el parque de bomberos de Livermore en California y tiene 117 años donde solo ha sido apagada en 4 ocasiones debido a traslados o reformas
 
-
+![enter image description here](https://www.concilia2.es/blog/wp-content/uploads/2016/02/4.png)
 
 
 ## 5. Residuos Informáticos
@@ -79,7 +79,7 @@ Realmente si realizamos un análisis mucho más profundo vemos que el problema v
 Por lo tanto la pregunta que nos tendríamos que hacer es si es suficiente con el reciclaje y con un consumo responsable para parar con esta problemática que terminará por llevarnos a un futuro mucho más oscuro.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYwNzA4NjI1LC0xNzc3NTIwNDksLTExOD
+eyJoaXN0b3J5IjpbMTc1ODg1NjMxLC0xNzc3NTIwNDksLTExOD
 k0ODMwNDMsLTIwNzUyMDYzMDEsLTY4MjExNDI3LC0xNzExOTI1
 NTg1XX0=
 -->
