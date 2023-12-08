@@ -70,9 +70,9 @@ Por lo tanto la pregunta que nos tendríamos que hacer es si es suficiente con e
 ![enter image description here](https://panelyacanalados.com/wp-content/uploads/2022/01/dia-mundial-de-la-educacion-ambiental-manos.jpg)
 
 >***BIBLIOGRAFIAS / ENLACES***
-Autor: Unir, la universidad de internet. Beegigital.
->- https://www.unir.net/ingenieria/revista/riesgos-laborales-informatica/#:~:text=Los%20principales%20riesgos%20laborales%20que,Contacto%20el%C3%A9ctrico
->- https://www.beedigital.es/prevencion-riesgos/prl-consejos-de-ergonomia-frente-al-ordenado/
+> - https://www.fundacionaquae.org/wiki/residuos-electronicos-que-son-y-que-hacer-con-ellos/
+>
+>
 >
 >
 >**REALIZADO POR:**
@@ -83,7 +83,7 @@ Autor: Unir, la universidad de internet. Beegigital.
 
 </div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MDEwMjU2MSw5MjEyMzY4MjksLTU0ND
+eyJoaXN0b3J5IjpbMTMzMjQ2MDcxMSw5MjEyMzY4MjksLTU0ND
 QyOTQxLDE2MDQ0NTc0MDYsLTEyOTMwMzI4MzQsLTE3Nzc1MjA0
 OSwtMTE4OTQ4MzA0MywtMjA3NTIwNjMwMSwtNjgyMTE0MjcsLT
 E3MTE5MjU1ODVdfQ==
