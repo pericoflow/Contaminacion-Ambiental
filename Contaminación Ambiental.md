@@ -72,9 +72,10 @@ Por lo tanto la pregunta que nos tendríamos que hacer es si es suficiente con e
 >***BIBLIOGRAFIAS / ENLACES***
 > - https://www.fundacionaquae.org/wiki/residuos-electronicos-que-son-y-que-hacer-con-ellos/
 > - https://vaciadosylimpiezas.com/que-es-la-basura-electronica-y-como-nos-afecta/#:~:text=Muchos%20desechos%20electr%C3%B3nicos%20contienen%20en,a%20nivel%20renal%20y%20%C3%B3seo
+> - https://www.gob.mx/profeco/es/articulos/obsolescencia-programada-disenados-para-morir?idiom=es#:~:text=falta%20para%20repararlo?-,La%20obsolescencia%20programada%20es%20la%20acci%C3%B3n%20intencional%20que%20hacen%20los,trata%20de%20una%20falla%20planeada
+> - https://www.bbva.com/es/sostenibilidad/que-es-y-que-tipos-de-contaminacion-ambiental-existen/
 > - 
->
->
+
 >
 >**REALIZADO POR:**
 > 1. JAVIER BARRERO VÁZQUEZ
@@ -84,8 +85,8 @@ Por lo tanto la pregunta que nos tendríamos que hacer es si es suficiente con e
 
 </div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Mzk1MDIxNTIsOTIxMjM2ODI5LC01ND
-Q0Mjk0MSwxNjA0NDU3NDA2LC0xMjkzMDMyODM0LC0xNzc3NTIw
-NDksLTExODk0ODMwNDMsLTIwNzUyMDYzMDEsLTY4MjExNDI3LC
-0xNzExOTI1NTg1XX0=
+eyJoaXN0b3J5IjpbLTY5NDY2MDAwMSw5MjEyMzY4MjksLTU0ND
+QyOTQxLDE2MDQ0NTc0MDYsLTEyOTMwMzI4MzQsLTE3Nzc1MjA0
+OSwtMTE4OTQ4MzA0MywtMjA3NTIwNjMwMSwtNjgyMTE0MjcsLT
+E3MTE5MjU1ODVdfQ==
 -->
