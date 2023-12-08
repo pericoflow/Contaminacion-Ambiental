@@ -70,7 +70,7 @@ aceptadas dócilmente hasta por los más fuertes opositores al capitalismo de co
 
 En el terreno de la informática tenemos como intento de solucionar esta problemática consumista la denominada informática ecológica.
 Muchos fabricantes de productos tecnológicos invierten en diseños y tecnología que permitan tener un uso de bajo consumo de sus dispositivos, reducir el uso de materiales peligrosos o altamente contaminantes.
-
+![enter image description here](https://verdeyazul.diarioinformacion.com/wp-content/uploads/2020/09/flor-1024x950.jpg)
 
 
 ## 7. Conclusión
@@ -81,7 +81,7 @@ Por lo tanto la pregunta que nos tendríamos que hacer es si es suficiente con e
 
 ![enter image description here](https://panelyacanalados.com/wp-content/uploads/2022/01/dia-mundial-de-la-educacion-ambiental-manos.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTMwMzI4MzQsLTE3Nzc1MjA0OSwtMT
-E4OTQ4MzA0MywtMjA3NTIwNjMwMSwtNjgyMTE0MjcsLTE3MTE5
-MjU1ODVdfQ==
+eyJoaXN0b3J5IjpbMTYwNDQ1NzQwNiwtMTI5MzAzMjgzNCwtMT
+c3NzUyMDQ5LC0xMTg5NDgzMDQzLC0yMDc1MjA2MzAxLC02ODIx
+MTQyNywtMTcxMTkyNTU4NV19
 -->
