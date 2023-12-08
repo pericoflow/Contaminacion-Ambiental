@@ -1,7 +1,6 @@
-# **Seguridad en el Trabajo**
+# **Riegos laborales orientado a la informática**
 
 **ÍNDICE** 
-- Riegos laborales
 - Fatiga Visual
 - Fatiga Muscular
 - Golpes o Caídas
@@ -44,5 +43,5 @@ Proporcionar mayor control en las tareas que desempeñan los trabajadores.
 Tenemos claro que el sector tecnológico está en auge y cada vez va creciendo más y más rápido por lo que cada vez hay que ser más conscientes de la prevención de riesgos laborales en sectores como la informática.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODE2OTM3NTRdfQ==
+eyJoaXN0b3J5IjpbLTcwNzExOTA2LC0yMDgxNjkzNzU0XX0=
 -->
