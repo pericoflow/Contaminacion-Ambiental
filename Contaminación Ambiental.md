@@ -16,8 +16,7 @@ La contaminación ambiental es la presencia de componentes nocivos, bien sean de
 
 Hace más de 50 años existía una concienciación para proteger el medioambiente, hoy en día para él las generaciones futuras y el futuro de nuestro planeta existen unas estrictas políticas acerca del cuidado y la protección de nuestro planeta.
 
-A través de este enlace [
-https://www.un.org/es/actnow/facts-and-figures) podrás entrar en la web de las Naciones Unidas y leer sobre información que nos facilitan detallada en varios ámbitos, ya sea energía, transporte, agua, etc.
+A través de este enlace https://www.un.org/es/actnow/facts-and-figures podrás entrar en la web de las Naciones Unidas y leer sobre información que nos facilitan detallada en varios ámbitos, ya sea energía, transporte, agua, etc.
 
 ![ç](https://statics-cuidateplus.marca.com/cms/styles/ratio_43/azblob/contaminacion-ilustracion.jpg.webp?itok=l0elgOfc)
 
@@ -89,8 +88,8 @@ Por lo tanto la pregunta que nos tendríamos que hacer es si es suficiente con e
 
 </div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg5NzU4OTg3LDkyMTIzNjgyOSwtNTQ0ND
-I5NDEsMTYwNDQ1NzQwNiwtMTI5MzAzMjgzNCwtMTc3NzUyMDQ5
-LC0xMTg5NDgzMDQzLC0yMDc1MjA2MzAxLC02ODIxMTQyNywtMT
-cxMTkyNTU4NV19
+eyJoaXN0b3J5IjpbLTgyMjgyNzQxNSw5MjEyMzY4MjksLTU0ND
+QyOTQxLDE2MDQ0NTc0MDYsLTEyOTMwMzI4MzQsLTE3Nzc1MjA0
+OSwtMTE4OTQ4MzA0MywtMjA3NTIwNjMwMSwtNjgyMTE0MjcsLT
+E3MTE5MjU1ODVdfQ==
 -->
