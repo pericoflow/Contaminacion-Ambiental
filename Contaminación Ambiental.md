@@ -49,10 +49,10 @@ Estos componentes que hemos mencionado son muy contaminantes para el medio ambie
 Como dato curioso los españoles producimos más de un millón de toneladas de residuos electrónicos al año.
 
 
-![enter image description here](https://www.nationalgeographic.com.es/medio/2018/09/28/vertedero-de-basura-electronica-paises-bajos_ba0f44db_1280x853.jpg)
+![enter image description here](https://www.nationalgeographic.com.es/medio/2018/09/28/vertedero-de-basura-electronica-paises-bajos_ba0f44db_580x853.jpg)
 
 
-![enter image description here](https://www.iberdrola.com/documents/20125/40465/basura_746x419.jpg/52421a91-7d32-7a81-df39-935d8c896ca9?t=1627375833183)
+![enter image description here](https://www.iberdrola.com/documents/20125/40465/basura_446x419.jpg/52421a91-7d32-7a81-df39-935d8c896ca9?t=1627375833183)
 
 ## 5. Obsolescencia Programada
 Una de las consecuencias de este consumismo feroz es la obsolescencia programada.
@@ -62,7 +62,7 @@ La proliferación de dispositivos digitales se está convirtiendo en un problema
 La vida útil de un articulo electronico pequeño como un movil o un reloj rondan los 2-3 años de vida útil o artículos menos tecnológicos y que necesitan una menor implicación en su creación como es el caso de las bombillas tienen una vida útil de 1000 horas mientras antes tenían una vida útil de 2500 horas.
 Como contraposición a esta práctica de limitar la vida útil de los objetos tenemos a la bombilla más longeva del mundo se encuentra en el parque de bomberos de Livermore en California y tiene 117 años donde solo ha sido apagada en 4 ocasiones debido a traslados o reformas.
 
-![enter image description here](https://www.concilia2.es/blog/wp-content/uploads/2016/02/4-300x178.png)
+![enter image description here](https://www.concilia2.es/blog/wp-content/uploads/2016/02/4.png)
 
 ## **6. Alternativa al Consumismo**
 Como alternativa al consumismo han surgido varios movimientos contraculturales que combaten a esta idea de consumir constantemente pero como todo en este sistema termina convirtiéndose en mercancía y finalmente las actitudes consumistas se generalizan y son
@@ -79,7 +79,7 @@ Realmente si realizamos un análisis mucho más profundo vemos que el problema v
 Por lo tanto la pregunta que nos tendríamos que hacer es si es suficiente con el reciclaje y con un consumo responsable para parar con esta problemática que terminará por llevarnos a un futuro mucho más oscuro.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5OTE3ODQ3OSwtMTc3NzUyMDQ5LC0xMT
+eyJoaXN0b3J5IjpbMTc5ODc4MDg4MCwtMTc3NzUyMDQ5LC0xMT
 g5NDgzMDQzLC0yMDc1MjA2MzAxLC02ODIxMTQyNywtMTcxMTky
 NTU4NV19
 -->
