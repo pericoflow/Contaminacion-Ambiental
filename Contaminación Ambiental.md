@@ -1,3 +1,4 @@
+<div style="text-align: justify">
 
 # **PROYECTO MEDIOAMBIENTAL**
 
@@ -67,8 +68,11 @@ Por lo tanto la pregunta que nos tendríamos que hacer es si es suficiente con e
 
 
 ![enter image description here](https://panelyacanalados.com/wp-content/uploads/2022/01/dia-mundial-de-la-educacion-ambiental-manos.jpg)
+
+</div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0NDQyOTQxLDE2MDQ0NTc0MDYsLTEyOT
-MwMzI4MzQsLTE3Nzc1MjA0OSwtMTE4OTQ4MzA0MywtMjA3NTIw
-NjMwMSwtNjgyMTE0MjcsLTE3MTE5MjU1ODVdfQ==
+eyJoaXN0b3J5IjpbLTUyOTc3MzYyNywtNTQ0NDI5NDEsMTYwND
+Q1NzQwNiwtMTI5MzAzMjgzNCwtMTc3NzUyMDQ5LC0xMTg5NDgz
+MDQzLC0yMDc1MjA2MzAxLC02ODIxMTQyNywtMTcxMTkyNTU4NV
+19
 -->
