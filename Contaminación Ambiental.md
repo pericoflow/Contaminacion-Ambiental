@@ -65,7 +65,15 @@ Como contraposición a esta práctica de limitar la vida útil de los objetos te
 
 ## **6. Alternativa al Consumismo**
 
+Como alternativa al consumismo han surgido varios movimientos contraculturales que combaten a esta idea de consumir constantemente pero como todo en este sistema termina convirtiéndose en mercancía y finalmente las actitudes consumistas se generalizan y son aceptadas dócilmente hasta por los más fuertes opositores al capitalismo de consumo.
+En el terreno de la informática tenemos como intento de solucionar esta problemática consumista la denominada informática ecológica.
+Muchos fabricantes de productos tecnológicos invierten en diseños y tecnología que permitan tener un uso de bajo consumo de sus dispositivos, reducir el uso de materiales peligrosos o altamente contaminantes
+
+
+## 7. Conclusión
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NDQ3NTM0NCwtMTE4OTQ4MzA0MywtMj
+eyJoaXN0b3J5IjpbMTQ1NTQxNTk1MCwtMTE4OTQ4MzA0MywtMj
 A3NTIwNjMwMSwtNjgyMTE0MjcsLTE3MTE5MjU1ODVdfQ==
 -->
