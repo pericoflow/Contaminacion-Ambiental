@@ -11,7 +11,7 @@
 - Conclusión
 
 
-## 1. ¿Qué es la Contaminación Ambiental?
+## 1. *¿Qué es la Contaminación Ambiental?
 La contaminación ambiental es la presencia de componentes nocivos, bien sean de naturaleza biológica, química o de otra clase, en el medio ambiente, de modo que supongan un perjuicio para los seres vivos que habitan un espacio, incluyendo, por supuesto, a los seres humanos. Generalmente la contaminación ambiental tiene su origen en alguna actividad humana.
 
 Hace más de 50 años existía una concienciación para proteger el medioambiente, hoy en día para él las generaciones futuras y el futuro de nuestro planeta existen unas estrictas políticas acerca del cuidado y la protección de nuestro planeta.
@@ -71,8 +71,8 @@ Por lo tanto la pregunta que nos tendríamos que hacer es si es suficiente con e
 
 </div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyOTc3MzYyNywtNTQ0NDI5NDEsMTYwND
-Q1NzQwNiwtMTI5MzAzMjgzNCwtMTc3NzUyMDQ5LC0xMTg5NDgz
-MDQzLC0yMDc1MjA2MzAxLC02ODIxMTQyNywtMTcxMTkyNTU4NV
-19
+eyJoaXN0b3J5IjpbLTE2MjY0NDY4ODEsLTU0NDQyOTQxLDE2MD
+Q0NTc0MDYsLTEyOTMwMzI4MzQsLTE3Nzc1MjA0OSwtMTE4OTQ4
+MzA0MywtMjA3NTIwNjMwMSwtNjgyMTE0MjcsLTE3MTE5MjU1OD
+VdfQ==
 -->
