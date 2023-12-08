@@ -63,7 +63,6 @@ La vida útil de un articulo electronico pequeño como un movil o un reloj ronda
 Como contraposición a esta práctica de limitar la vida útil de los objetos tenemos a la bombilla más longeva del mundo se encuentra en el parque de bomberos de Livermore en California y tiene 117 años donde solo ha sido apagada en 4 ocasiones debido a traslados o reformas.
 
 
-
 ## **6. Alternativa al Consumismo**
 Como alternativa al consumismo han surgido varios movimientos contraculturales que combaten a esta idea de consumir constantemente pero como todo en este sistema termina convirtiéndose en mercancía y finalmente las actitudes consumistas se generalizan y son
 aceptadas dócilmente hasta por los más fuertes opositores al capitalismo de consumo.
@@ -79,6 +78,6 @@ Realmente si realizamos un análisis mucho más profundo vemos que el problema v
 Por lo tanto la pregunta que nos tendríamos que hacer es si es suficiente con el reciclaje y con un consumo responsable para parar con esta problemática que terminará por llevarnos a un futuro mucho más oscuro.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDY1OTcwODcsLTExODk0ODMwNDMsLT
-IwNzUyMDYzMDEsLTY4MjExNDI3LC0xNzExOTI1NTg1XX0=
+eyJoaXN0b3J5IjpbLTE3Nzc1MjA0OSwtMTE4OTQ4MzA0MywtMj
+A3NTIwNjMwMSwtNjgyMTE0MjcsLTE3MTE5MjU1ODVdfQ==
 -->
