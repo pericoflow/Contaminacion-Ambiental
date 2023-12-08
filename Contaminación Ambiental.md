@@ -10,19 +10,17 @@
 - Conclusión
 
 
-## 1. ¿Qué es la contaminación?
+## 1. ¿Qué es la ontaminación Ambiental?
 La contaminación ambiental es la presencia de componentes nocivos, bien sean de naturaleza biológica, química o de otra clase, en el medio ambiente, de modo que supongan un perjuicio para los seres vivos que habitan un espacio, incluyendo, por supuesto, a los seres humanos. Generalmente la contaminación ambiental tiene su origen en alguna actividad humana.
 
 Hace más de 50 años existía una concienciación para proteger el medioambiente, hoy en día para él las generaciones futuras y el futuro de nuestro planeta existen unas estrictas políticas acerca del cuidado y la protección de nuestro planeta.
 
- ![ç](https://statics-cuidateplus.marca.com/cms/styles/ratio_43/azblob/contaminacion-ilustracion.jpg.webp?itok=l0elgOfc)
+![ç](https://statics-cuidateplus.marca.com/cms/styles/ratio_43/azblob/contaminacion-ilustracion.jpg.webp?itok=l0elgOfc)
 
 ## 2. Consumismo
 Uno de los factores que más peso tienen en la contaminación ambiental es el consumismo.
 El consumismo empieza a fraguarse y a desarrollarse a partir del siglo XX como consecuencia de la aplicación de los pilares ideológicos básicos del capitalismo y también por el surgimiento de la publicidad.
-El consumismo ha ido evolucionando y con ello también nuestra sociedad donde la publicidad ha sido el pilar fundamental para el desarrollo y creación de lo que hoy conocemos como sociedad de consumo. La publicidad contemporánea tiene el ob-
-jetivo de que los consumidores desarrollen fidelidad a la marca a través de las
-emociones y la creación de conexiones, como ejemplo de ello tenemos a Apple una de las empresas con mejor técnica de publicidad y marketing del momento.
+El consumismo ha ido evolucionando y con ello también nuestra sociedad donde la publicidad ha sido el pilar fundamental para el desarrollo y creación de lo que hoy conocemos como sociedad de consumo. La publicidad contemporánea tiene el objetivo de que los consumidores desarrollen fidelidad a la marca a través de las emociones y la creación de conexiones, como ejemplo de ello tenemos a Apple una de las empresas con mejor técnica de publicidad y marketing del momento.
 Hoy en día en la era de la información el consumismo está llegando a un nuevo nivel en el que las redes sociales toman un papel crucial. Las redes sociales crean modas constantemente por los usuarios que la utilizan y estas modas fortalecen aún más ese capitalismo consumista.
 
 
@@ -81,6 +79,6 @@ Realmente si realizamos un análisis mucho más profundo vemos que el problema v
 Por lo tanto la pregunta que nos tendríamos que hacer es si es suficiente con el reciclaje y con un consumo responsable para parar con esta problemática que terminará por llevarnos a un futuro mucho más oscuro.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3MjY1MDI5OCwtMTE4OTQ4MzA0MywtMj
+eyJoaXN0b3J5IjpbMjA1ODkzNjUyMywtMTE4OTQ4MzA0MywtMj
 A3NTIwNjMwMSwtNjgyMTE0MjcsLTE3MTE5MjU1ODVdfQ==
 -->
