@@ -78,8 +78,10 @@ A lo largo de este trabajo hemos visto las causas, consecuencias y posibles solu
 Realmente si realizamos un análisis mucho más profundo vemos que el problema va más allá de lo que hemos expuesto, se trata de un problema estructural sistémico cuyas bases se nutren de una cadena interminable de factores como la desigualdad social, económica y de género, el aprovechamiento de mano de obra “neo-esclava” de los países en vía de desarrollo donde también se extraen la mayoría de los componentes más demandados para los países del primer mundo para satisfacer la demanda consumista de sus sociedades.
 Por lo tanto la pregunta que nos tendríamos que hacer es si es suficiente con el reciclaje y con un consumo responsable para parar con esta problemática que terminará por llevarnos a un futuro mucho más oscuro.
 
+
+![enter image description here](https://panelyacanalados.com/wp-content/uploads/2022/01/dia-mundial-de-la-educacion-ambiental-manos.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1ODg1NjMxLC0xNzc3NTIwNDksLTExOD
-k0ODMwNDMsLTIwNzUyMDYzMDEsLTY4MjExNDI3LC0xNzExOTI1
-NTg1XX0=
+eyJoaXN0b3J5IjpbLTEyOTMwMzI4MzQsLTE3Nzc1MjA0OSwtMT
+E4OTQ4MzA0MywtMjA3NTIwNjMwMSwtNjgyMTE0MjcsLTE3MTE5
+MjU1ODVdfQ==
 -->
