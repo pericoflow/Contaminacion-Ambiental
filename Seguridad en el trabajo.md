@@ -32,8 +32,11 @@ Trabajando en oficinas es muy importante un orden de los cables que utilizas nue
 ## 4. Contacto Eléctrico
 Respetando las normas de seguridad con respecto a la seguridad en uso de cableado, nunca damos por hecho nada, eso quiere decir que antes de trastear con un equipo que vayamos arreglar revisar que no tenga corriente y si es así y somos conscientes usar las medidas adecuadas.
 
+![enter image description here](https://3.bp.blogspot.com/_CSIjpmY4-Zs/S_ONfDoVBnI/AAAAAAAAACs/zlw42FiGg78/s320/contelectdirecto.gif)
+
 ## 5. Carga Mental
 Una mala organización, un exceso de carga de trabajo, problemas con los compañeros puede llevar a que en nuestro trabajo tengamos una carga mental que no nos deje desempeñar nuestra funciones correctamente. La carga mental se ve más afectada en la rama de la programación, dado que es un trabajo donde se requiere de mucho razonamiento constante.
+
 
 ## 6. Distintos factores en la Organización
 Permitir que los mismos trabajadores organicen sus funciones.
@@ -42,6 +45,6 @@ Proporcionar mayor control en las tareas que desempeñan los trabajadores.
 Tenemos claro que el sector tecnológico está en auge y cada vez va creciendo más y más rápido por lo que cada vez hay que ser más conscientes de la prevención de riesgos laborales en sectores como la informática.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2OTQ5NzM1OCwxMDU3MTI0ODcsLTIyNj
-YxMzAwNSwtMjA4MTY5Mzc1NF19
+eyJoaXN0b3J5IjpbLTEyMzQ1OTc4NjgsMTA1NzEyNDg3LC0yMj
+Y2MTMwMDUsLTIwODE2OTM3NTRdfQ==
 -->
