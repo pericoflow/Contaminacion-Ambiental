@@ -56,12 +56,12 @@ Autor: Unir, la universidad de internet. Beegigital.
 >- https://www.beedigital.es/prevencion-riesgos/prl-consejos-de-ergonomia-frente-al-ordenado/
 
 REALIZADO POR:
-JUAN JOSÉ CAMPOS GÓMEZ
-JAVIER BARRERO VÁZQUEZ
+
+ - JUAN JOSÉ CAMPOS GÓMEZ JAVIER BARRERO VÁZQUEZ ANDRÉS RUIZ CABELLO
 
 </div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MDc1NDk5NSwtMTA1MDMxNTMxOCw2NT
+eyJoaXN0b3J5IjpbMTQzMDI1MDEwNSwtMTA1MDMxNTMxOCw2NT
 kwOTQxNzcsMTM0OTI1NTI5MCwxMzQ5MjU1MjkwLDEwNTcxMjQ4
 NywtMjI2NjEzMDA1LC0yMDgxNjkzNzU0XX0=
 -->
