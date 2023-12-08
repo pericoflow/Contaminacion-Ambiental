@@ -50,17 +50,18 @@ Tenemos claro que el sector tecnológico está en auge y cada vez va creciendo m
 
 
 
-*BIBLIOGRAFIAS / ENLACES*
+>*BIBLIOGRAFIAS / ENLACES*
 Autor: Unir, la universidad de internet. Beegigital.
-- (https://www.unir.net/ingenieria/revista/riesgos-laborales-informatica/#:~:text=Los%20principales%20riesgos%20laborales%20que,Contacto%20el%C3%A9ctrico)
-- [
-- ](https://www.beedigital.es/prevencion-riesgos/prl-consejos-de-ergonomia-frente-al-ordenado/)
+>- https://www.unir.net/ingenieria/revista/riesgos-laborales-informatica/#:~:text=Los%20principales%20riesgos%20laborales%20que,Contacto%20el%C3%A9ctrico
+>- https://www.beedigital.es/prevencion-riesgos/prl-consejos-de-ergonomia-frente-al-ordenado/
 
-
+REALIZADO POR:
+JUAN JOSÉ CAMPOS GÓMEZ
+JAVIER BARRERO VÁZQUEZ
 
 </div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MDMzMDcxMiwtMTA1MDMxNTMxOCw2NT
+eyJoaXN0b3J5IjpbMTU3MDc1NDk5NSwtMTA1MDMxNTMxOCw2NT
 kwOTQxNzcsMTM0OTI1NTI5MCwxMzQ5MjU1MjkwLDEwNTcxMjQ4
 NywtMjI2NjEzMDA1LC0yMDgxNjkzNzU0XX0=
 -->
