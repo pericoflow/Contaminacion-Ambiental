@@ -1,4 +1,5 @@
-<div style="text-a
+<div style="text-align: justify">
+
 # **Riegos laborales orientado a la informática**
 Tenemos que tener en cuenta que el riesgo o el peligro en el día a día de un trabajador informático no es el mismo al que se desempeña en la construcción, trabajando de mozo de almacén, etc. Sin embargo, eso no quiere decir que no existan riesgos de los cuales te vamos a nombrar los siguientes:
 
@@ -12,7 +13,7 @@ Tenemos que tener en cuenta que el riesgo o el peligro en el día a día de un t
 
 ## 1. Fatiga Visual
 Pueden aparecer molestias oculares, esto sucede cuando no tenemos una distancia adecuada con la pantalla o monitor con el que trabajamos. El trabajo excesivo con la pantalla puede causar en un futuro ceguera debido a la luz azul emitida por los dispositivos con los que trabajamos, para ello existen unas gafas que hacen que reduzcan esta luz en nuestros ojos.
-Mantener una distancia de seguridad con el monitor de 50 ò 60 cm y una buena iluminación en el lugar de trabajo.
+Mantener una distancia de seguridad con el monitor de 50 ó 60 cm y una buena iluminación en el lugar de trabajo.
 
 ![enter image description here](https://www.prevensystem.com//componentes/editor/ckfinder/userfiles/files/fatiga%20visual.jpg)
 
@@ -45,9 +46,9 @@ Permitir que los mismos trabajadores organicen sus funciones.
 Proporcionar mayor control en las tareas que desempeñan los trabajadores.
 
 Tenemos claro que el sector tecnológico está en auge y cada vez va creciendo más y más rápido por lo que cada vez hay que ser más conscientes de la prevención de riesgos laborales en sectores como la informática.
-
+</div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNTc5MzU5NCwxMzQ5MjU1MjkwLDEzND
-kyNTUyOTAsMTA1NzEyNDg3LC0yMjY2MTMwMDUsLTIwODE2OTM3
-NTRdfQ==
+eyJoaXN0b3J5IjpbNjU5MDk0MTc3LDEzNDkyNTUyOTAsMTM0OT
+I1NTI5MCwxMDU3MTI0ODcsLTIyNjYxMzAwNSwtMjA4MTY5Mzc1
+NF19
 -->
