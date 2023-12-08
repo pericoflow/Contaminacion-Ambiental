@@ -41,16 +41,15 @@ Existen varios tipos de contaminación ambiental:
 ![**enter image description here**](https://www.lifeder.com/wp-content/uploads/2021/09/tipos-de-contaminacion-imagen.jpg)
 
 ## 4. Obsolescencia Programada
-Una de las consecuencias de la obsolescencia programada y por lo tanto del consumismo es la creación de residuos informáticos. Los residuos son un problema para el medioambiente y por lo tanto para la sociedad pero la creación de estos cada vez es mas exponencial y más rápida. Los componentes de estos residuos de aparatos electrónicos y eléctricos son altamente contaminantes. 
-Al año se generan más de 50 millones de toneladas de chatarra tecnológica.
-Según el último informe del Programa de Naciones Unidas para el Medio Ambiente (PNUMA), en el mundo se generan 40 millones de toneladas de residuos electrónicos al año. Se calcula que el volumen de este tipo de chatarra está creciendo entre un 16% y un 28% cada cinco años. El triple que la basura domiciliaria. 
 
-Muchos de los componentes electrónicos que usamos de nuestros aparatos tecnológicos contienen mercurio, plomo, cadmio o cromo.
-Estos componentes que hemos mencionado son muy contaminantes para el medio ambiente y por consiguiente dañinos para los seres humanos.
-Como dato curioso los españoles producimos más de un millón de toneladas de residuos electrónicos al año.
+Una de las consecuencias de este consumismo feroz es la obsolescencia programada.
+Con el objetivo de vender aún más y satisfacer las necesidades, creadas a raíz de la publicidad invasiva y engañosa, que demandan los consumidores las empresas aprovechan para acortar la vida útil de su producto para vender más unidades en menos tiempo.
+Es la acción intencionada que realizan los fabricantes en la construcción de componentes electrónicos para que dejen de servir en un tiempo determinado.
+La proliferación de dispositivos digitales se está convirtiendo en un problema para el planeta porque, cuando su vida útil finaliza su tasa de reciclaje es insuficiente.
+La vida útil de un articulo electrónico pequeño como un móvil o un reloj rondan los 2-3 años de vida útil o artículos menos tecnológicos y que necesitan una menor implicación en su creación como es el caso de las bombillas tienen una vida útil de 1000 horas mientras antes tenían una vida útil de 2500 horas.
+Como contraposición a esta práctica de limitar la vida útil de los objetos tenemos a la bombilla más longeva del mundo se encuentra en el parque de bomberos de Livermore en California y tiene 117 años donde solo ha sido apagada en 4 ocasiones debido a traslados o reformas
 
 
-![enter image description here](https://www.nationalgeographic.com.es/medio/2018/09/28/vertedero-de-basura-electronica-paises-bajos_ba0f44db_1280x853.jpg)
 
 
 ## 5. Residuos Informáticos
@@ -61,6 +60,8 @@ Según el último informe del Programa de Naciones Unidas para el Medio Ambiente
 Muchos de los componentes electrónicos que usamos de nuestros aparatos tecnológicos contienen mercurio, plomo, cadmio o cromo.
 Estos componentes que hemos mencionado son muy contaminantes para el medio ambiente y por consiguiente dañinos para los seres humanos.
 Como dato curioso los españoles producimos más de un millón de toneladas de residuos electrónicos al año.
+
+![enter image description here](https://www.nationalgeographic.com.es/medio/2018/09/28/vertedero-de-basura-electronica-paises-bajos_ba0f44db_1280x853.jpg)
 
 
 ## **6. Alternativa al Consumismo**
@@ -78,7 +79,7 @@ Realmente si realizamos un análisis mucho más profundo vemos que el problema v
 Por lo tanto la pregunta que nos tendríamos que hacer es si es suficiente con el reciclaje y con un consumo responsable para parar con esta problemática que terminará por llevarnos a un futuro mucho más oscuro.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNjQ2NzAxNywtMTc3NzUyMDQ5LC0xMT
-g5NDgzMDQzLC0yMDc1MjA2MzAxLC02ODIxMTQyNywtMTcxMTky
-NTU4NV19
+eyJoaXN0b3J5IjpbMzYwNzA4NjI1LC0xNzc3NTIwNDksLTExOD
+k0ODMwNDMsLTIwNzUyMDYzMDEsLTY4MjExNDI3LC0xNzExOTI1
+NTg1XX0=
 -->
