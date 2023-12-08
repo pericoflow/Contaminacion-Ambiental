@@ -46,9 +46,16 @@ Permitir que los mismos trabajadores organicen sus funciones.
 Proporcionar mayor control en las tareas que desempeñan los trabajadores.
 
 Tenemos claro que el sector tecnológico está en auge y cada vez va creciendo más y más rápido por lo que cada vez hay que ser más conscientes de la prevención de riesgos laborales en sectores como la informática.
+
+
+
+
+*BIBLIOGRAFIAS / ENLACES*
+Autor: Unir, la universidad de internet. Beegigital.
+
 </div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTAzMTUzMTgsNjU5MDk0MTc3LDEzND
-kyNTUyOTAsMTM0OTI1NTI5MCwxMDU3MTI0ODcsLTIyNjYxMzAw
-NSwtMjA4MTY5Mzc1NF19
+eyJoaXN0b3J5IjpbMTAxNTMwMjI1MywtMTA1MDMxNTMxOCw2NT
+kwOTQxNzcsMTM0OTI1NTI5MCwxMzQ5MjU1MjkwLDEwNTcxMjQ4
+NywtMjI2NjEzMDA1LC0yMDgxNjkzNzU0XX0=
 -->
