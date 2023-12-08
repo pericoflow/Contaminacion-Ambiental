@@ -71,6 +71,7 @@ Por lo tanto la pregunta que nos tendríamos que hacer es si es suficiente con e
 
 ![enter image description here](https://panelyacanalados.com/wp-content/uploads/2022/01/dia-mundial-de-la-educacion-ambiental-manos.jpg)
 
+
 >***BIBLIOGRAFIAS / ENLACES***
 > - https://www.fundacionaquae.org/wiki/residuos-electronicos-que-son-y-que-hacer-con-ellos/
 > - https://vaciadosylimpiezas.com/que-es-la-basura-electronica-y-como-nos-afecta/#:~:text=Muchos%20desechos%20electr%C3%B3nicos%20contienen%20en,a%20nivel%20renal%20y%20%C3%B3seo
@@ -88,8 +89,8 @@ Por lo tanto la pregunta que nos tendríamos que hacer es si es suficiente con e
 
 </div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMjgyNzQxNSw5MjEyMzY4MjksLTU0ND
-QyOTQxLDE2MDQ0NTc0MDYsLTEyOTMwMzI4MzQsLTE3Nzc1MjA0
-OSwtMTE4OTQ4MzA0MywtMjA3NTIwNjMwMSwtNjgyMTE0MjcsLT
-E3MTE5MjU1ODVdfQ==
+eyJoaXN0b3J5IjpbNTk5NjgxNDY3LDkyMTIzNjgyOSwtNTQ0ND
+I5NDEsMTYwNDQ1NzQwNiwtMTI5MzAzMjgzNCwtMTc3NzUyMDQ5
+LC0xMTg5NDgzMDQzLC0yMDc1MjA2MzAxLC02ODIxMTQyNywtMT
+cxMTkyNTU4NV19
 -->
