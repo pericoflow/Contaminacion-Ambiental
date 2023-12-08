@@ -47,15 +47,11 @@ Proporcionar mayor control en las tareas que desempeñan los trabajadores.
 
 Tenemos claro que el sector tecnológico está en auge y cada vez va creciendo más y más rápido por lo que cada vez hay que ser más conscientes de la prevención de riesgos laborales en sectores como la informática.
 
-
-
-
 >***BIBLIOGRAFIAS / ENLACES***
 Autor: Unir, la universidad de internet. Beegigital.
 >- https://www.unir.net/ingenieria/revista/riesgos-laborales-informatica/#:~:text=Los%20principales%20riesgos%20laborales%20que,Contacto%20el%C3%A9ctrico
 >- https://www.beedigital.es/prevencion-riesgos/prl-consejos-de-ergonomia-frente-al-ordenado/
->
->
+
 >**REALIZADO POR:**
 > 1. JAVIER BARRERO VÁZQUEZ
 > 2. ANDRÉS RUIZ CABELLO
@@ -63,7 +59,7 @@ Autor: Unir, la universidad de internet. Beegigital.
 
 </div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODA2ODE2MjAsLTEwNTAzMTUzMTgsNj
-U5MDk0MTc3LDEzNDkyNTUyOTAsMTM0OTI1NTI5MCwxMDU3MTI0
-ODcsLTIyNjYxMzAwNSwtMjA4MTY5Mzc1NF19
+eyJoaXN0b3J5IjpbLTMzNTQxNzAxNiwtMTA1MDMxNTMxOCw2NT
+kwOTQxNzcsMTM0OTI1NTI5MCwxMzQ5MjU1MjkwLDEwNTcxMjQ4
+NywtMjI2NjEzMDA1LC0yMDgxNjkzNzU0XX0=
 -->
