@@ -41,8 +41,6 @@ Existen varios tipos de contaminación ambiental:
 
 ## 4. Residuos Informáticos
 
-- Definición: 
-La Organización para la Cooperación y el Desarrollo Económico (OCDE) define desecho electrónico como todo dispositivo alimentado con energía eléctrica cuya vida útil termina, por lo tanto no solo hablamos de móviles o tablets sino también de frigoríficos, televisores, lámparas LED, paneles fotovoltaicos, máquinas expendedoras,etc.
 ![enter image description here](https://www.nationalgeographic.com.es/medio/2018/09/28/vertedero-de-basura-electronica-paises-bajos_ba0f44db_1280x853.jpg)
 - Problemas:
 Uno de los mayores problemas que tenemos actualmente la humanidad son los residuos tecnológicos. La fabricación en grandes masas de móviles, tablets, portátiles, etc.
@@ -72,8 +70,11 @@ Muchos fabricantes de productos tecnológicos invierten en diseños y tecnologí
 
 ## 7. Conclusión
 
+A lo largo de este trabajo hemos visto las causas, consecuencias y posibles soluciones de la contaminación ambiental.
+Realmente si realizamos un análisis mucho más profundo vemos que el problema va más allá de lo que hemos expuesto, se trata de un problema estructural sistémico cuyas bases se nutren de una cadena interminable de factores como la desigualdad social, económica y de género, el aprovechamiento de mano de obra “neo-esclava” de los países en vía de desarrollo donde también se extraen la mayoría de los componentes más demandados para los países del primer mundo para satisfacer la demanda consumista de sus sociedades.
+Por lo tanto la pregunta que nos tendríamos que hacer es si es suficiente con el reciclaje y con un consumo responsable para parar con esta problemática que terminará por llevarnos a un futuro mucho más oscuro.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NTQxNTk1MCwtMTE4OTQ4MzA0MywtMj
+eyJoaXN0b3J5IjpbMTExNDUzMjUwOSwtMTE4OTQ4MzA0MywtMj
 A3NTIwNjMwMSwtNjgyMTE0MjcsLTE3MTE5MjU1ODVdfQ==
 -->
