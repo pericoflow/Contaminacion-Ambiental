@@ -4,7 +4,6 @@
 **ÍNDICE** 
 - ¿Qué es la contaminación ambiental?
 - Consumismo
-- Tipos de contaminaciones
 - Obsolescencia programada
 - Residuos informáticos
 - Alternativas al consumismo
@@ -69,7 +68,7 @@ Por lo tanto la pregunta que nos tendríamos que hacer es si es suficiente con e
 
 ![enter image description here](https://panelyacanalados.com/wp-content/uploads/2022/01/dia-mundial-de-la-educacion-ambiental-manos.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0MDg0OTM0NywxNjA0NDU3NDA2LC0xMj
-kzMDMyODM0LC0xNzc3NTIwNDksLTExODk0ODMwNDMsLTIwNzUy
-MDYzMDEsLTY4MjExNDI3LC0xNzExOTI1NTg1XX0=
+eyJoaXN0b3J5IjpbNDI1NzI5NjIxLDE2MDQ0NTc0MDYsLTEyOT
+MwMzI4MzQsLTE3Nzc1MjA0OSwtMTE4OTQ4MzA0MywtMjA3NTIw
+NjMwMSwtNjgyMTE0MjcsLTE3MTE5MjU1ODVdfQ==
 -->
