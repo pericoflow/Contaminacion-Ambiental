@@ -37,6 +37,7 @@ Respetando las normas de seguridad con respecto a la seguridad en uso de cablead
 ## 5. Carga Mental
 Una mala organización, un exceso de carga de trabajo, problemas con los compañeros puede llevar a que en nuestro trabajo tengamos una carga mental que no nos deje desempeñar nuestra funciones correctamente. La carga mental se ve más afectada en la rama de la programación, dado que es un trabajo donde se requiere de mucho razonamiento constante.
 
+![enter image description here](https://cdn.businessinsider.es/sites/navi.axelspringer.es/public/media/image/2022/08/carga-trabajo-principal-problema-salud-mental-entorno-laboral-2778265.jpg)
 
 ## 6. Distintos factores en la Organización
 Permitir que los mismos trabajadores organicen sus funciones.
@@ -45,6 +46,6 @@ Proporcionar mayor control en las tareas que desempeñan los trabajadores.
 Tenemos claro que el sector tecnológico está en auge y cada vez va creciendo más y más rápido por lo que cada vez hay que ser más conscientes de la prevención de riesgos laborales en sectores como la informática.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzQ1OTc4NjgsMTA1NzEyNDg3LC0yMj
-Y2MTMwMDUsLTIwODE2OTM3NTRdfQ==
+eyJoaXN0b3J5IjpbMTM0OTI1NTI5MCwxMDU3MTI0ODcsLTIyNj
+YxMzAwNSwtMjA4MTY5Mzc1NF19
 -->
