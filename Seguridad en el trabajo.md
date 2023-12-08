@@ -1,6 +1,6 @@
 <div style="text-align: justify">
 
-># *Riegos laborales orientado a la informática*
+# *Riegos laborales orientado a la informática*
 Tenemos que tener en cuenta que el riesgo o el peligro en el día a día de un trabajador informático no es el mismo al que se desempeña en la construcción, trabajando de mozo de almacén, etc. Sin embargo, eso no quiere decir que no existan riesgos de los cuales te vamos a nombrar los siguientes:
 
 - Fatiga Visual
@@ -48,7 +48,7 @@ Proporcionar mayor control en las tareas que desempeñan los trabajadores.
 Tenemos claro que el sector tecnológico está en auge y cada vez va creciendo más y más rápido por lo que cada vez hay que ser más conscientes de la prevención de riesgos laborales en sectores como la informática.
 </div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTI1Mzk0NDUsNjU5MDk0MTc3LDEzND
+eyJoaXN0b3J5IjpbLTE0MTUyOTQxNzksNjU5MDk0MTc3LDEzND
 kyNTUyOTAsMTM0OTI1NTI5MCwxMDU3MTI0ODcsLTIyNjYxMzAw
 NSwtMjA4MTY5Mzc1NF19
 -->
