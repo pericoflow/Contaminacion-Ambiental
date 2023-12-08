@@ -21,7 +21,7 @@ Nos sucede con la repetición de malas posturas en largas duraciones de jornada 
 Asegúrate de que la espalda esté recta y perfectamente ajustada en el respaldo del asiento.
 Previene las tendinitis en las muñecas con mesas que permitan a tus trabajadores mantener los brazos y las muñecas rectas, mientras manipulan el ordenador y escriben con el teclado.
 
-
+![enter image description here](https://statics-cuidateplus.marca.com/cms/styles/natural/azblob/dolor-muscular-trabajo.jpg.webp?itok=H0fNdyBT)
 
 ## 3. Golpes o Caídas
 Trabajando en oficinas es muy importante un orden de los cables que utilizas nuestros ordenadores, cables de corriente. Un desorden puede causar tropiezos llevando a la caída y posteriormente lesiones graves. Para ello lo mejor es tener una buena estructura de cables organizada en cada puesto de trabajo siempre intentando que se crucen con otros puestos de trabajo.
@@ -39,6 +39,6 @@ Proporcionar mayor control en las tareas que desempeñan los trabajadores.
 Tenemos claro que el sector tecnológico está en auge y cada vez va creciendo más y más rápido por lo que cada vez hay que ser más conscientes de la prevención de riesgos laborales en sectores como la informática.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyODU2NTg4MiwtMjI2NjEzMDA1LC0yMD
-gxNjkzNzU0XX0=
+eyJoaXN0b3J5IjpbMTA1NzEyNDg3LC0yMjY2MTMwMDUsLTIwOD
+E2OTM3NTRdfQ==
 -->
