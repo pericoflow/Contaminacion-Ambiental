@@ -13,6 +13,8 @@ Tenemos que tener en cuenta que el riesgo o el peligro en el día a día de un t
 Pueden aparecer molestias oculares, esto sucede cuando no tenemos una distancia adecuada con la pantalla o monitor con el que trabajamos. El trabajo excesivo con la pantalla puede causar en un futuro ceguera debido a la luz azul emitida por los dispositivos con los que trabajamos, para ello existen unas gafas que hacen que reduzcan esta luz en nuestros ojos.
 Mantener una distancia de seguridad con el monitor de 50 ò 60 cm y una buena iluminación en el lugar de trabajo.
 
+![enter image description here](https://www.prevensystem.com//componentes/editor/ckfinder/userfiles/files/fatiga%20visual.jpg)
+
 ## 2. Fatiga Muscular
 Nos sucede con la repetición de malas posturas en largas duraciones de jornada y repetidas durante días. Por ejemplo, no apoyar correctamente la espalda en la silla y coger una mala inclinación puede producir lumbalgia, esto puede dejarte varios días en cama sin poder moverte. Otro ejemplo sería que el teclado o el portátil no esté a una distancia adecuada de nuestras manos con lo que implica una extensión de los brazos y causar molestias en nuestros hombros. Para ello es aconsejable tener una distancia de 30 cm del teclado al filo de la mesa.
 
@@ -35,5 +37,6 @@ Proporcionar mayor control en las tareas que desempeñan los trabajadores.
 Tenemos claro que el sector tecnológico está en auge y cada vez va creciendo más y más rápido por lo que cada vez hay que ser más conscientes de la prevención de riesgos laborales en sectores como la informática.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNjYxMzAwNSwtMjA4MTY5Mzc1NF19
+eyJoaXN0b3J5IjpbMjY5MDExNzU0LC0yMjY2MTMwMDUsLTIwOD
+E2OTM3NTRdfQ==
 -->
