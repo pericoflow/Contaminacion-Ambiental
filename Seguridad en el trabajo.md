@@ -1,6 +1,6 @@
 # **Riegos laborales orientado a la informática**
+Tenemos que tener en cuenta que el riesgo o el peligro en el día a día de un trabajador informático no es el mismo al que se desempeña en la construcción, trabajando de mozo de almacén, etc. Sin embargo, eso no quiere decir que no existan riesgos de los cuales te vamos a nombrar los siguientes:
 
-**ÍNDICE** 
 - Fatiga Visual
 - Fatiga Muscular
 - Golpes o Caídas
@@ -9,31 +9,23 @@
 - Distintos factores
 
 
-## 1. Riegos laborales orientado a la informática
-Tenemos que tener en cuenta que el riesgo o el peligro en el día a día de un trabajador informático no es el mismo al que se desempeña en la construcción, trabajando de mozo de almacén, etc. Sin embargo, eso no quiere decir que no existan riesgos de los cuales te vamos a nombrar los siguientes:
-- Fatiga visual o muscular.
-- Golpes o caídas.
-- Contacto eléctrico.
-- Carga mental.
-- Distintos factores en la organización.
-
-## 2. Fatiga Visual
+## 1. Fatiga Visual
 Pueden aparecer molestias oculares, esto sucede cuando no tenemos una distancia adecuada con la pantalla o monitor con el que trabajamos. El trabajo excesivo con la pantalla puede causar en un futuro ceguera debido a la luz azul emitida por los dispositivos con los que trabajamos, para ello existen unas gafas que hacen que reduzcan esta luz en nuestros ojos.
 Mantener una distancia de seguridad con el monitor de 50 ò 60 cm y una buena iluminación en el lugar de trabajo.
 
-## 3. Fatiga Muscular
+## 2. Fatiga Muscular
 Nos sucede con la repetición de malas posturas en largas duraciones de jornada y repetidas durante días. Por ejemplo, no apoyar correctamente la espalda en la silla y coger una mala inclinación puede producir lumbalgia, esto puede dejarte varios días en cama sin poder moverte. Otro ejemplo sería que el teclado o el portátil no esté a una distancia adecuada de nuestras manos con lo que implica una extensión de los brazos y causar molestias en nuestros hombros. Para ello es aconsejable tener una distancia de 30 cm del teclado al filo de la mesa.
 
 Asegúrate de que la espalda esté recta y perfectamente ajustada en el respaldo del asiento.
 Previene las tendinitis en las muñecas con mesas que permitan a tus trabajadores mantener los brazos y las muñecas rectas, mientras manipulan el ordenador y escriben con el teclado.
 
-## 4. Golpes o Caídas
+## 3. Golpes o Caídas
 Trabajando en oficinas es muy importante un orden de los cables que utilizas nuestros ordenadores, cables de corriente. Un desorden puede causar tropiezos llevando a la caída y posteriormente lesiones graves. Para ello lo mejor es tener una buena estructura de cables organizada en cada puesto de trabajo siempre intentando que se crucen con otros puestos de trabajo.
 
-## 5. Contacto Eléctrico
+## 4. Contacto Eléctrico
 Respetando las normas de seguridad con respecto a la seguridad en uso de cableado, nunca damos por hecho nada, eso quiere decir que antes de trastear con un equipo que vayamos arreglar revisar que no tenga corriente y si es así y somos conscientes usar las medidas adecuadas.
 
-## 6. Carga Mental
+## 5. Carga Mental
 Una mala organización, un exceso de carga de trabajo, problemas con los compañeros puede llevar a que en nuestro trabajo tengamos una carga mental que no nos deje desempeñar nuestra funciones correctamente. La carga mental se ve más afectada en la rama de la programación, dado que es un trabajo donde se requiere de mucho razonamiento constante.
 
 ## 7. Distintos factores en la Organización
@@ -43,5 +35,5 @@ Proporcionar mayor control en las tareas que desempeñan los trabajadores.
 Tenemos claro que el sector tecnológico está en auge y cada vez va creciendo más y más rápido por lo que cada vez hay que ser más conscientes de la prevención de riesgos laborales en sectores como la informática.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNzExOTA2LC0yMDgxNjkzNzU0XX0=
+eyJoaXN0b3J5IjpbLTY4MjQ0NTU4MCwtMjA4MTY5Mzc1NF19
 -->
