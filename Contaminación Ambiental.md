@@ -4,6 +4,7 @@
 **ÍNDICE** 
 - ¿Qué es la contaminación ambiental?
 - Consumismo
+- Tipos de contaminaciones
 - Obsolescencia programada
 - Residuos informáticos
 - Alternativas al consumismo
@@ -49,10 +50,8 @@ Estos componentes que hemos mencionado son muy contaminantes para el medio ambie
 Como dato curioso los españoles producimos más de un millón de toneladas de residuos electrónicos al año.
 
 
-![enter image description here](https://www.nationalgeographic.com.es/medio/2018/09/28/vertedero-de-basura-electronica-paises-bajos_ba0f44db_580x853.jpg)
+![enter image description here](https://www.nationalgeographic.com.es/medio/2018/09/28/vertedero-de-basura-electronica-paises-bajos_ba0f44db_1280x853.jpg)
 
-
-![enter image description here](https://www.iberdrola.com/documents/20125/40465/basura_446x419.jpg/52421a91-7d32-7a81-df39-935d8c896ca9?t=1627375833183)
 
 ## 5. Obsolescencia Programada
 Una de las consecuencias de este consumismo feroz es la obsolescencia programada.
@@ -79,7 +78,7 @@ Realmente si realizamos un análisis mucho más profundo vemos que el problema v
 Por lo tanto la pregunta que nos tendríamos que hacer es si es suficiente con el reciclaje y con un consumo responsable para parar con esta problemática que terminará por llevarnos a un futuro mucho más oscuro.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5ODc4MDg4MCwtMTc3NzUyMDQ5LC0xMT
+eyJoaXN0b3J5IjpbMTIxNzYxMzkyNywtMTc3NzUyMDQ5LC0xMT
 g5NDgzMDQzLC0yMDc1MjA2MzAxLC02ODIxMTQyNywtMTcxMTky
 NTU4NV19
 -->
